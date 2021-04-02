@@ -1,0 +1,15 @@
+
+Ksquid:S1172"(Remove this unused method parameter "n".(ÁçúÍşÿÿÿÿ8€Ö£ïâ.
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(™²“õ8ßÖïâ.
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÿËÅ£8ÂôÕïâ.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì§€ëøÿÿÿÿ
+Vsquid:S1197"8Move the array designator from the variable to the type.(ßá©œ8ö¿Áïâ.
+U
+squid:S106+"9Replace this use of System.out or System.err by a logger.(°ıñT8²¢µïâ.
+Vsquid:S1197)"8Move the array designator from the variable to the type.(Ëæ¨—8²¢µïâ.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßá©œ8ö¿Áïâ.
+[squid:S1197"8Move the array designator from the variable to the type.(ÁçúÍşÿÿÿÿ8ú¡¢ïâ.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁçúÍşÿÿÿÿ8ú¡¢ïâ.
+psquid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëæ¨—8²¢µïâ.

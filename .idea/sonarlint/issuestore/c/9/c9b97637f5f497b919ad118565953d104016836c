@@ -1,0 +1,12 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×œ‹
+9squid:S3626"Remove this redundant jump.(ûÁİ…8éÙÚ¿ä.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(©Ùß¼ıÿÿÿÿ8éÙÚ¿ä.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ı»åúÿÿÿÿ8Ô´Ş¿ä.
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ı»åúÿÿÿÿ8òıá¿ä.
+Vsquid:S1197"8Move the array designator from the variable to the type.(‡ó8¶ÏÑ¿ä.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(æé–¬8³öä¿ä.

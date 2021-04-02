@@ -1,0 +1,33 @@
+
+"squid:ClassVariableVisibilityCheck"TMake vertices a static final constant or non-public and provide accessors if needed.(ËÖÑ‹øÿÿÿÿ8Ş ïå.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(Şíü¤ÿÿÿÿÿ8ñ…Ÿå.
+V
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ÀŞ£¬8ÎÕºå.
+W
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ÀŞ£¬8ÇÜÉå.
+[
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ğÒñ»ÿÿÿÿÿ8£Ú¯å.
+‡"squid:ClassVariableVisibilityCheck"RMake adjMat a static final constant or non-public and provide accessors if needed.(åßÎ8óÜñå.
+Vsquid:S1197L"8Move the array designator from the variable to the type.(°¤–¯8±Ê™å.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ÔºÑùÿÿÿÿ
+msquid:S00100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÕ÷š8½–Éå.
+csquid:HiddenFieldCheckL":Rename "visited" which hides the field declared at line 8.(°¤–¯8Ï­Ğå.
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ËˆĞ›8È§©å.
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Éºãñ8Òå.
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(˜¶øùÿÿÿÿ8‰Í£å.
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8È§©å.
+rsquid:S00100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´˜Êİüÿÿÿÿ8ïö—å.
+[squid:S1197"8Move the array designator from the variable to the type.(Æï‚Æúÿÿÿÿ8Ï­Ğå.
+"squid:ClassVariableVisibilityCheck"SMake visited a static final constant or non-public and provide accessors if needed.(Æï‚Æúÿÿÿÿ8Ï­Ğå.
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ƒº÷™8±Ê™å.
+U
+squid:S106j"9Replace this use of System.out or System.err by a logger.(ÜÌ18Š£®å.
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(üôÑ§şÿÿÿÿ8ò³Òå.
+Vsquid:S1197"8Move the array designator from the variable to the type.(åßÎ8óÜñå.

@@ -1,0 +1,20 @@
+
+\
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(Ü½å×ûÿÿÿÿ8ÚÌİ¶ä.
+W
+squid:S106±"9Replace this use of System.out or System.err by a logger.(Üš€Ê8Ëå¶ä.
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(«Ä˜¬8ç±·ä.
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(©¼îÿÿÿÿÿ8»Œ’·ä.
+V
+squid:S106o"9Replace this use of System.out or System.err by a logger.(«Ä˜¬8Õ«Ó¸ä.
+\
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Üˆß¶ä.
+W
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(Üš€Ê8•Éç¶ä.
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(°§ÄÎúÿÿÿÿ8Õß¸ä.
+V
+squid:S106\"9Replace this use of System.out or System.err by a logger.(®õú8×­µ¸ä.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì›¤şÿÿÿÿ
+~squid:UselessImportCheck"NRemove this unused import 'com.sun.deploy.security.SelectableSecurityManager'.(©¼îÿÿÿÿÿ8»Œ’·ä.

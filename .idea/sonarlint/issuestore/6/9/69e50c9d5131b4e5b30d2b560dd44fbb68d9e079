@@ -1,0 +1,17 @@
+
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ8‹þ´½ä.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ÓÍô¼ä.
+[
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ8±ÄÈ½ä.
+qsquid:S1192Y"NDefine a constant instead of duplicating this literal "List is empty" 3 times.(ˆê‹¼ùÿÿÿÿ8ýàÜ½ä.
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(«Ä˜¬8ëïž½ä.
+V
+squid:S106|"9Replace this use of System.out or System.err by a logger.(«Ä˜¬8ÒŸâ½ä.
+\
+squid:S106€"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ8ýàÜ½ä.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÝÏíšýÿÿÿÿ
+V
+squid:S106J"9Replace this use of System.out or System.err by a logger.(‡ïöð8³ÕÝºä.

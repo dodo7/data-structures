@@ -1,0 +1,31 @@
+
+usquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è­°Œÿÿÿÿÿ8âíƒóâ.
+[squid:S1197I"8Move the array designator from the variable to the type.(‘²Ğùÿÿÿÿ8†Ú‹óâ.
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(‘ãĞø8ç±Ğğâ.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•áíé
+Vsquid:S1197"8Move the array designator from the variable to the type.(ö²Âí8€Ø¿ğâ.
+\
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ûò•óâ.
+[squid:S1197)"8Move the array designator from the variable to the type.(”ï¶øûÿÿÿÿ8™ï¢òâ.
+[squid:S1197<"8Move the array designator from the variable to the type.(‹É§ùÿÿÿÿ8ü•ùòâ.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éå½üÿÿÿÿ8ĞÉ½ñâ.
+usquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹É§ùÿÿÿÿ8ü•ùòâ.
+usquid:S00117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šîìóıÿÿÿÿ8ÍÕÅôâ.
+[squid:S1197E"8Move the array designator from the variable to the type.(è­°Œÿÿÿÿÿ8âíƒóâ.
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦±Ê8Ûò•óâ.
+psquid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á€€¦8ö‚íôâ.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìˆÿ¦üÿÿÿÿ8ƒºíñâ.
+usquid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ï¶øûÿÿÿÿ8™ï¢òâ.
+Vsquid:S1197|"8Move the array designator from the variable to the type.(Á€€¦8ö‚íôâ.
+Wsquid:S1197‡"8Move the array designator from the variable to the type.(¨Œòú8Ûò•óâ.
+usquid:S00117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘²Ğùÿÿÿÿ8†Ú‹óâ.
+qsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Œòú8Ûò•óâ.
+[squid:S1197k"8Move the array designator from the variable to the type.(Šîìóıÿÿÿÿ8ÍÕÅôâ.
+wsquid:S3012`"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(…ğÊÿ8éÚ˜óâ.
+psquid:S00117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€İĞ8ëĞ½ôâ.
+[squid:S1197"8Move the array designator from the variable to the type.(ìˆÿ¦üÿÿÿÿ8ƒºíñâ.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö²Âí8€Ø¿ğâ.
+[squid:S1197"8Move the array designator from the variable to the type.(éå½üÿÿÿÿ8ĞÉ½ñâ.
+Wsquid:S1197"8Move the array designator from the variable to the type.(¦±Ê8Ûò•óâ.
+Vsquid:S1197d"8Move the array designator from the variable to the type.(€İĞ8ëĞ½ôâ.
